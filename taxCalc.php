@@ -63,3 +63,5 @@ function taxCalc($income)
     }
 
 }
+
+// Now write the html for a webpage or implement a command line interface
